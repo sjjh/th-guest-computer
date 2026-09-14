@@ -107,7 +107,7 @@ The guest user will be freshly created on every boot and deleted on every shut d
 Feel free to contribute and use the files under following license:
 
     TH guest user
-    Copyright (C) 2020  Simon Harhues
+    Copyright (C) 2020  sjjh
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
